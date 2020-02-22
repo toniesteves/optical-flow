@@ -1,4 +1,4 @@
-# Aplicação de Fluxo Optico
+# Aplicação de Fluxo Óptico
 
 Em visão computacional, o método Lucas Kanade é um método diferencial amplamente usado para estimativa de fluxo óptico, desenvolvido por Bruce D. Lucas e Takeo Kanade. O método assume que o fluxo é essencialmente constante em uma vizinhança local do pixel em questão e resolve as equações básicas de fluxo óptico para todos os pixels dessa vizinhança, pelo critério dos mínimos quadrados.
 
