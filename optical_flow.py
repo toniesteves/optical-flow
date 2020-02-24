@@ -45,7 +45,7 @@ while cap.isOpened():
     old_points = new_points
 
     x, y = new_points.ravel()
-    cv2.circle(frame, (x, y), 5, (0, 255, 0), -1)
+    cv2.circle(frame, (x, y), 10, (0, 255, 0), -1)
 
 
   cv2.imshow("Frame", frame)
