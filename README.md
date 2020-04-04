@@ -20,7 +20,7 @@ Além das referências, elaborei um artigo no medium.
 [Rastreamento por Fluxo Óptico com OpenCV](https://medium.com/@toni_esteves/rastreamento-por-fluxo-%C3%B3ptico-com-opencv-aa6302630f7c)
 
 
-![alt text](https://cdn-images-1.medium.com/max/720/1*nD1OGLH9ZwA_pfz4nVEV_A.gif)
+![alt text](https://miro.medium.com/max/497/1*nD1OGLH9ZwA_pfz4nVEV_A.gif)
 
 ## Referências
 
